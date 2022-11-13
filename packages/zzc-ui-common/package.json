@@ -1,0 +1,25 @@
+{
+  "name": "zzc-ui-common",
+  "version": "1.0.0",
+  "description": "ui common",
+  "keywords": [
+    "ui"
+  ],
+  "author": "zhangzechao <zhangzechao@shuidihuzhu.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/zzc-ui-common.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/zzc-ui-common.test.js"
+  }
+}
