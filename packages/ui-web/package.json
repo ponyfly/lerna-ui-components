@@ -12,5 +12,6 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.2",
     "vite": "^3.1.8"
-  }
+  },
+  "gitHead": "f5b4d9c773b022da42c914095599abf746aa0f5a"
 }

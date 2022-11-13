@@ -17,9 +17,10 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "node ./__tests__/zzc-ui-common.test.js"
-  }
+  },
+  "gitHead": "f5b4d9c773b022da42c914095599abf746aa0f5a"
 }
